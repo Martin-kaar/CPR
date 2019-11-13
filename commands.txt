@@ -1,0 +1,20 @@
+Martin Kaar ---- Commands
+********************************************************************
+init: Macht ein neues lokales Repository
+config: Man kann von der Commandozeile aus konfigurieren, zB. Nuzterinfos
+clone: Klont ein Repository lokal
+add: Added eine neue Datei in das lokale Repository
+rm: Removed eine Datei aus dem lokalen Repository
+commit: Erstellt eine Nachricht welche nach dem pushen angezeigt wird
+remote: Man kan Verbindungen mit anderer Repositories erstellen.
+push: Lädt die aktuelle Version deines lokalen Repository's online hoch
+pull: Lädt die neuste Version in den lokales Repository
+status: Zeigt dir den Status deines Repository's an
+diff: Zeigt alle Unterschiede zur letzten Speicherung an
+reset:  Alle lokalen Änderungen werden zurückgesetzt
+log: Zeigt alle Änderungen an
+branch: Erstell einen neuen Zweig
+checkout: Ändert den Branch
+merge: Fügt Branches zusammen
+
+
